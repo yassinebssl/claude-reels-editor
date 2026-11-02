@@ -5,7 +5,7 @@ A Claude Code skill: six data-driven Remotion overlay effects for talking-head r
 ## Install
 
 ```bash
-git clone https://github.com/projectgabis-dotcom/claude-reels-editor.git ~/.claude/skills/claude-reels-editor
+git clone https://github.com/yassinebssl/claude-reels-editor.git ~/.claude/skills/claude-reels-editor
 ```
 
 Claude Code picks it up on the next session. Works best with the Remotion plugin (`claude plugin marketplace add remotion-dev/claude-code-plugin`, then `claude plugin install remotion@remotion`).
